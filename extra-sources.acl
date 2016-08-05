@@ -25,3 +25,5 @@ packages.elastic.co                     # ElasticSearch new URL
 shell.ninthgate.se                      # Plex
 apt.sonarr.tv                           # Sonar
 apt.postgresql.org                      # postgresql
+download.webmin.com
+packages.linuxmint.com
